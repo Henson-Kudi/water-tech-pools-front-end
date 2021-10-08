@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/water-tech-pools-front-end/static/css/main.46959fcd.chunk.css",
+    "main.js": "/water-tech-pools-front-end/static/js/main.9a2dd16e.chunk.js",
+    "main.js.map": "/water-tech-pools-front-end/static/js/main.9a2dd16e.chunk.js.map",
+    "runtime-main.js": "/water-tech-pools-front-end/static/js/runtime-main.f9eca1cd.js",
+    "runtime-main.js.map": "/water-tech-pools-front-end/static/js/runtime-main.f9eca1cd.js.map",
+    "static/js/2.47cebd0e.chunk.js": "/water-tech-pools-front-end/static/js/2.47cebd0e.chunk.js",
+    "static/js/2.47cebd0e.chunk.js.map": "/water-tech-pools-front-end/static/js/2.47cebd0e.chunk.js.map",
+    "index.html": "/water-tech-pools-front-end/index.html",
+    "static/css/main.46959fcd.chunk.css.map": "/water-tech-pools-front-end/static/css/main.46959fcd.chunk.css.map",
+    "static/js/2.47cebd0e.chunk.js.LICENSE.txt": "/water-tech-pools-front-end/static/js/2.47cebd0e.chunk.js.LICENSE.txt",
+    "static/media/chemFeeding.86e6d6ee.png": "/water-tech-pools-front-end/static/media/chemFeeding.86e6d6ee.png",
+    "static/media/chlorineDisinfection.0fc31815.png": "/water-tech-pools-front-end/static/media/chlorineDisinfection.0fc31815.png",
+    "static/media/clarifier.2befd3bf.png": "/water-tech-pools-front-end/static/media/clarifier.2befd3bf.png",
+    "static/media/construction.a1e06de4.jpg": "/water-tech-pools-front-end/static/media/construction.a1e06de4.jpg",
+    "static/media/filterAndPump.b907ac4d.png": "/water-tech-pools-front-end/static/media/filterAndPump.b907ac4d.png",
+    "static/media/filteration.ffa925a5.png": "/water-tech-pools-front-end/static/media/filteration.ffa925a5.png",
+    "static/media/footerImage.7dbdb79a.jpg": "/water-tech-pools-front-end/static/media/footerImage.7dbdb79a.jpg",
+    "static/media/heatAndCoolingPump.13fd1d21.png": "/water-tech-pools-front-end/static/media/heatAndCoolingPump.13fd1d21.png",
+    "static/media/interiorAndExteriorDesign.1b8e8a21.jpg": "/water-tech-pools-front-end/static/media/interiorAndExteriorDesign.1b8e8a21.jpg",
+    "static/media/leisureProducts.a980d8eb.png": "/water-tech-pools-front-end/static/media/leisureProducts.a980d8eb.png",
+    "static/media/logo.27956032.png": "/water-tech-pools-front-end/static/media/logo.27956032.png",
+    "static/media/osmosisSystem.27ed214e.png": "/water-tech-pools-front-end/static/media/osmosisSystem.27ed214e.png",
+    "static/media/saltChlorinator.e42d424e.png": "/water-tech-pools-front-end/static/media/saltChlorinator.e42d424e.png",
+    "static/media/treatmentChem.033892a9.png": "/water-tech-pools-front-end/static/media/treatmentChem.033892a9.png",
+    "static/media/uvSystem.9b1f2851.png": "/water-tech-pools-front-end/static/media/uvSystem.9b1f2851.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f9eca1cd.js",
+    "static/js/2.47cebd0e.chunk.js",
+    "static/css/main.46959fcd.chunk.css",
+    "static/js/main.9a2dd16e.chunk.js"
+  ]
+}
