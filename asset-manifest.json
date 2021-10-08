@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/water-tech-pools-front-end/static/css/main.46959fcd.chunk.css",
-    "main.js": "/water-tech-pools-front-end/static/js/main.9a2dd16e.chunk.js",
-    "main.js.map": "/water-tech-pools-front-end/static/js/main.9a2dd16e.chunk.js.map",
-    "runtime-main.js": "/water-tech-pools-front-end/static/js/runtime-main.f9eca1cd.js",
-    "runtime-main.js.map": "/water-tech-pools-front-end/static/js/runtime-main.f9eca1cd.js.map",
-    "static/js/2.47cebd0e.chunk.js": "/water-tech-pools-front-end/static/js/2.47cebd0e.chunk.js",
-    "static/js/2.47cebd0e.chunk.js.map": "/water-tech-pools-front-end/static/js/2.47cebd0e.chunk.js.map",
+    "main.css": "/water-tech-pools-front-end/static/css/main.60995c41.chunk.css",
+    "main.js": "/water-tech-pools-front-end/static/js/main.a4eb3561.chunk.js",
+    "main.js.map": "/water-tech-pools-front-end/static/js/main.a4eb3561.chunk.js.map",
+    "runtime-main.js": "/water-tech-pools-front-end/static/js/runtime-main.bf141ce1.js",
+    "runtime-main.js.map": "/water-tech-pools-front-end/static/js/runtime-main.bf141ce1.js.map",
+    "static/js/2.84f7e42c.chunk.js": "/water-tech-pools-front-end/static/js/2.84f7e42c.chunk.js",
+    "static/js/2.84f7e42c.chunk.js.map": "/water-tech-pools-front-end/static/js/2.84f7e42c.chunk.js.map",
     "index.html": "/water-tech-pools-front-end/index.html",
-    "static/css/main.46959fcd.chunk.css.map": "/water-tech-pools-front-end/static/css/main.46959fcd.chunk.css.map",
-    "static/js/2.47cebd0e.chunk.js.LICENSE.txt": "/water-tech-pools-front-end/static/js/2.47cebd0e.chunk.js.LICENSE.txt",
+    "static/css/main.60995c41.chunk.css.map": "/water-tech-pools-front-end/static/css/main.60995c41.chunk.css.map",
+    "static/js/2.84f7e42c.chunk.js.LICENSE.txt": "/water-tech-pools-front-end/static/js/2.84f7e42c.chunk.js.LICENSE.txt",
     "static/media/chemFeeding.86e6d6ee.png": "/water-tech-pools-front-end/static/media/chemFeeding.86e6d6ee.png",
     "static/media/chlorineDisinfection.0fc31815.png": "/water-tech-pools-front-end/static/media/chlorineDisinfection.0fc31815.png",
     "static/media/clarifier.2befd3bf.png": "/water-tech-pools-front-end/static/media/clarifier.2befd3bf.png",
@@ -27,9 +27,9 @@
     "static/media/uvSystem.9b1f2851.png": "/water-tech-pools-front-end/static/media/uvSystem.9b1f2851.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.f9eca1cd.js",
-    "static/js/2.47cebd0e.chunk.js",
-    "static/css/main.46959fcd.chunk.css",
-    "static/js/main.9a2dd16e.chunk.js"
+    "static/js/runtime-main.bf141ce1.js",
+    "static/js/2.84f7e42c.chunk.js",
+    "static/css/main.60995c41.chunk.css",
+    "static/js/main.a4eb3561.chunk.js"
   ]
 }
